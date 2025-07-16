@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm [Jashmin Thapa](https://github.com/jashmin14), an aspiring **Web Developer** with a deep passion for crafting beautiful, responsive, and user-friendly websites. I love turning ideas into reality through clean and efficient code.  
+I'm [Jashmin Thapa](https://github.com/jashmin14), an aspiring **Web Developer** with a deep passion for crafting beautiful, responsive, and user-friendly websites.  
 
 Currently, I’m focused on:  
 - Strengthening my JavaScript and React knowledge.    
