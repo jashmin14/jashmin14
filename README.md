@@ -2,13 +2,8 @@ Hi there! 👋
 
 I'm [Jashmin Thapa](https://github.com/jashmin14), an aspiring **Web Developer** with a deep passion for crafting beautiful, responsive, and user-friendly websites. I love turning ideas into reality through clean and efficient code.  
 
-I started my journey with the fundamentals of **HTML**, **CSS**, and **JavaScript**, and I’m continually working to strengthen my frontend skills while also exploring the world of backend development. 
-
-Beyond just coding, I’m enthusiastic about understanding the entire development lifecycle—from planning and design to deployment and maintenance. I believe in writing **clean**, **maintainable**, and **scalable** code, collaborating effectively with others, and continuously improving as a developer.  
-
 Currently, I’m focused on:  
-- Strengthening my JavaScript and React knowledge.  
-- Exploring backend technologies like **Node.js** and **Express**.  
+- Strengthening my JavaScript and React knowledge.    
 - Learning about APIs and how to integrate them effectively.  
 - Understanding version control using **Git** and collaborating via **GitHub**.  
 - Improving my problem-solving and debugging skills.  
