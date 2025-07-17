@@ -23,4 +23,3 @@ Currently, I’m focused on:
 
 --- 
 
-📫 **Reach me at**: [jashmint60@gmail.com](mailto:jashminet60@gmail.com)
